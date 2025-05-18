@@ -1,16 +1,10 @@
 # Financial-Dashboard-
 # Finance Dashboard App
 
-A responsive finance management dashboard built with **React**, **TypeScript**, and **Tailwind CSS**. The app includes features such as viewing budgets, transactions, profiles, goals, and investments, all under a dark/light mode toggle.
-
+A responsive finance management dashboard built with **React**, **TypeScript**, and **Tailwind CSS**. 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v16+ recommended)
-- npm or yarn
+##  Getting Started
 
 ### Installation
 
